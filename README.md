@@ -1,1 +1,1 @@
-addqueue1 function has some issues, it'll be solved later
+enqueue1 function has some issues, it'll be solved later
